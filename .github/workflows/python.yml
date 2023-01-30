@@ -3,7 +3,7 @@ name: Python Script Workflow
 on: [push]
 
 jobs:
-  job1:
+  links:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
