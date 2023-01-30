@@ -44,3 +44,15 @@ I don’t believe in the Singularity, nor in AIs taking over the planet. I do be
     — Byte, April 1985
 
 So, no, don’t cling too much to the idea that writers must do everything on their own. Instead, think hard about the complexities of the work you do and hire accordingly. Accept that parts of the work could be executed with the assistance of artificial intelligence, software, and other devices. But first, talk to Legal.
+
+---
+
+###### Table insertion (already with the vale integration)
+
+| 1 | 2 | 3 |
+| - | - | - |
+| 2 | 2 | 3 |
+| 3 | 2 | 3 |
+| 4 | 2 | 3 |
+
+### Paulo GPD
