@@ -11,14 +11,12 @@
     debug: # optional, default is false
     # Reporter of reviewdog command [github-pr-check,github-pr-review,github-check].
     reporter: # optional, default is github-pr-check
-    # Exit code for reviewdog when errors are found [true,false]
-Default is `false`.
+    # Exit code for reviewdog when errors are found [true,false] Default is `false`.
 
     fail_on_error: # optional, default is false
     # Report level for reviewdog [info,warning,error].
     level: # optional, default is error
-    # Filtering for the reviewdog command [added,diff_context,file,nofilter].
-Default is added.
+    # Filtering for the reviewdog command [added,diff_context,file,nofilter]. Default is added.
 
     filter_mode: # optional, default is added
     # Space-delimited list of flags for the Vale CLI.
