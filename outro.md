@@ -1,18 +1,46 @@
-# O mais perfeito dos rebotes
+Hiring technical writers in a ChatGPT world
+6–8 minutes
 
-#### Douglas Ceconello - 22/2/2013December 20, 2020
 ---
 
-Em minha tenra porém rija juventude, costumava dormir segurando um MICRO SYSTEM sobre a barriga, escutando LOVE SONGS e abandonando o estado de vigília aos acordes de [Sob um céu de blues](https://web.archive.org/web/20160214083253/http://www.youtube.com/watch?v=PnUhCIwf6cg) ou [WIND OF CHANGE](https://web.archive.org/web/20160214083253/http://www.youtube.com/watch?v=n4RjJKxsamQ). Era despertado do sono quando o rádio se estatelava no assoalho de madeira. Mas isso acontecia apenas em algumas noites. Nas outras, me dedicava a traçar amiúde a minha inevitável trajetória fulminante como zagueiro do Internacional, apenas uma questão de tempo.
+Jan. 4, 2023
 
-Quando não estava desenhando aquarelas mentais com aquelas experientes mulheres de 14 anos que frequentavam o segundo grau e pensando na fumaça cinza que sai das fábricas, me enxergava envolto no sudário encarnado de número 3 na frente da área em um escanteio. Um Grenal. Sempre um Grenal. Que precisava ser decidido no último minuto, afinal, se é pra ser ficção, que seja ROBUSTA em melodrama. E a bola invariavelmente sobrava quicando após um defensor espanar, à feição para o coice instintivo, seco, que testava os barbantes e conclamava o Beira-Rio para uma tentativa de implodir a si mesmo.
+Just when we thought that we wouldn’t be replaced by WriterBot, a mounting concern is ruining many a breakfast: Bad actors could still get hired as technical writers by feeding take-home assignments to ChatGPT and presenting the resulting soliloquy as their own. Nevermind that ChatGPT content is often wrong or trite: Some think that it’d still fool hiring managers. Let me suggest two solutions to this robocalyptic scenario.
+There is no “Hasta la vista, baby”
 
-Mas minha estatura insuficiente abreviou minha carreira jamais deflagrada, as mulheres de 14 anos constituíram família e hoje a juventude desconhece o prazer de dormir com um _Mycro Sistem_ esquentando a barriga, já que até um prendedor de roupa toca música. Eu também nunca consegui dirigir o Opala 74 cor CARAMELO do meu pai, mas isso não vem ao caso. Derrotado, me dediquei, ainda que minimamente, aos estudos, esta válvula de escape dos párias atléticos, aqueles que jamais serão zagueiros. Mas volta e meia me vinha à cabeça, em flashes, e até hoje, até sempre, aquele rebote mitológico na frente da área, o quique mínimo da bola antes do mais devastador chute já desferido em um sonho.
+I was reluctant to write about this topic, because it entails a pessimistic view of both AI and people. Is there really a horde of job applicants willing to game a writing test to get a month or two of tenure? Unfortunately, yes: Fraud exists and it’d be naive to dismiss the possibility of folks using ChatGPT to fake their way into a job. Hiring mistakes are very expensive, so of course you want to defend against AI assisted scams. I get that.
 
-Naquele 27 de setembro de 2008, novamente fui assaltado pela visão do rebote, da bola que quica, do movimento de chicote da perna, da explosão. O Beira-Rio prendeu a respiração, mas eu acompanhava como se fosse uma reconstituição. A polícia onírica havia extraído minha memória auto-implantada mais preciosa e a encenava para 40 mil pessoas. Alex cobrou a falta, a zaga gremista espanou e D’Alessandro, com aquela perna de grilo, desferiu um chute que redefiniu os conceitos da física, seu cartão de visitas de chumbo para Victor, depois dali eternizado como vítima preferida. A mulher do açougueiro conhece de longe o cheiro da carne.
+You can’t stop progress, though. There is no Skynet to burn, nor infallible ways of detecting text authored by AIs (although there are some talks of text watermarking and detectors). If you think your writing test is vulnerable to scammers that use ChatGPT, I only see two possibilities: You either change your take-home tests or modify the way you think about technical writing. The latter, in my opinion, is the best way to go.
+Contextualize this, WriterBot
 
-Nem os mais previsíveis roteiristas teriam a coragem de começar uma trama de maneira tão perfeita. Em Grenal. Sempre em Grenal. O meu gol. Aquele que eu havia marcado centenas de vezes, mas que as estatísticas insistiam em ignorar.
+ChatGPT is extremely good at regurgitating existing knowledge. For example, you can ask it to document how to call an API endpoint or how to use a Python function. In a way, it’s the C3PO version of Google Search. If your take-home test consists of explaining an existing technology, know it’ll be highly vulnerable to AI. Even good old plagiarism might still be able to crack your test. Dump it.
 
-As pranchetas fundamentais da cabala vermelha já haviam determinado que D’Alessandro estreasse em um clássico, válido pela Copa Sul-Americana, cerca de um mês antes do gol etéreo, um empate em um gol no Beira-Rio. Provavelmente já estava definido também que seu jogo 200 precisasse ser um clássico, este do próximo domingo. Entre todos os títulos debulhados nestes quase cinco anos e de todas as manifestações peculiares, às vezes fiasquentas, outras brilhantes, típicas de sua índole castelhana, talvez a mais vistosa FACETA seja seu desempenho demoníaco em Grenal. Talvez porque ali esteja desenhado o cenário ideal para onde convergem todas as exigências: o caráter de um jogador sempre fica claro em Grenal, este POLÍGRAFO que detecta e expõe mentiras e verdades inquestionáveis. A relação entre Inter e D’Alessandro, para usar uma metáfora VIRIL, é mais ou menos como a do casal de esquilos de A Era do Gelo. Com o Grêmio desempenhando o papel de AVELÃ.
+Hiring writers only because of their writing is like hiring someone to be a ninja based solely on how they chop stuff with a katana; important, but not the whole thing. Tech writers bring a diverse set of skills to their jobs, writing being but one of them. We often juggle multiple imperfect sources of information, adapting our tone to the situation while extracting feedback. What makes our job irreplaceable are the human bits.
 
-Impressiona como as autopistas do desatino às vezes desembocam em uma direção que hoje nos parece ter sido desde sempre inevitável. Para chegar ao Beira-Rio, D’Alessandro precisou fazer sua carreira atravessar a trote toda uma 9 de Julio, _la más ancha del mundo_. Se houvesse pegado um sinal fechado, é provável que ainda hoje estivesse vagando por canchas assépticas no hemisfério errado, esperando o momento de encerrar sua carreira no Monumental de Nuñez. Não conheceria outro vermelho que não o do River. Não conheceria o gosto metálico de LAMBER a orelha da Libertadores. Não conheceria Celso Roth pessoalmente. E, sobretudo, não teria me permitido presenciar no estádio aquele gol que passei anos aperfeiçoando e que eu já acreditava estar condenado a envelhecer como um eterno rascunho irreal.
+Instead of going for generic requests, go for a realistic take-home assignment that shows the complexities of the job. For example, you could provide four or five different and slightly contradictory artifacts (official docs, Jira tickets, CLI logs, etc.) and ask applicants not only to write docs using that little bundle of chaos, but also to write down what they’d ask SMEs for clarification and how they’d manage feedback.
+
+Another option is to switch the writer to an editor role: Ask applicants how they’d improve a bad document or improve information architecture of an existing site. That sort of contextual awareness is out of GPT boundaries for now. Editing requires an opinionated stance, something that a gelatinous hive mind doesn’t really possess – because it can’t, because a stance is the product of being a living, hungry thing that makes mistakes.
+
+You’d even ask to document something GPT is unlikely to have lots of material about, like a fictitious piece of software or a random object that does something similarly random. What you can no longer do is to go the traditional route and ask remote job applicants to do things that search engines and AI tools are better suited for. The only way of negating AI based scams is to increase complexity or have applicants work in real time.
+Resistance is futile
+
+Even after all the above, a highly skilled operator of AIs could still crack your test. If that’s the case, you might as well hire that person, which brings me to the next option: To assume that the usage of AI agents like ChatGPT or GitHub Copilot will be commonplace at work, as it happened with StackOverflow and Google.
+
+In The Rise of WriterBot I advocated for tighter integration of AI assisted writing in technical writing workflows:
+
+    By removing the most repetitive and least engaging bits of the job, WriterBot would allow tech writers to humanize their work and focus on building relationships and improving the way products communicate.
+
+Writing skills are based on the same pattern matching and retrieval skills that ChatGPT mimics. Unless you expect writers to work offline on parchments, you have to tolerate a certain degree of hive mind influence. (I’m sure many writers and editors criticized automatic grammar checks as unfair when they appeared.)
+
+You can be frank about this in your take-home assignments and ask candidates whether they used AI tools or not. Push things a little further and ask them to use ChatGTP in one of the exercises and explain how they edited the output or what they think is wrong with it. One more step and you’d ask how they would use AI at work.
+The transhuman writer
+
+If a tool is better at something, wouldn’t you give it to qualified operators if you were running a business? Picture chainsaws vs. hatchets or cars vs. rickshaws. The key here is what makes someone a qualified operator of an AI based tool. To answer that, one must first accept that AI can enhance our abilities.
+
+I don’t believe in the Singularity, nor in AIs taking over the planet. I do believe it’s time to start thinking of AI augmentation as the future of most technical jobs, including technical writing. It’s not about replacing people with robots (we really can’t); rather, it’s about embracing transhumanism.
+
+    You awake one morning to find your brain has another lobe functioning. Invisible, this auxiliary lobe answers your questions with information beyond the realm of your own memory, suggests plausible courses of action, and asks questions that help bring out relevant facts. You quickly come to rely on the new lobe so much that you stop wondering how it works. You just use it. This is the dream of artificial intelligence.
+
+    — Byte, April 1985
+
+So, no, don’t cling too much to the idea that writers must do everything on their own. Instead, think hard about the complexities of the work you do and hire accordingly. Accept that parts of the work could be executed with the assistance of artificial intelligence, software, and other devices. But first, talk to Legal.
